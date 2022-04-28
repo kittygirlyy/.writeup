@@ -1,0 +1,55 @@
+RSA bag:
+t0r0nt0_ch4ll{R54_34zY}
+
+readmeaudio flag:
+t0r0nt0_ch4ll{m3ch4nt}
+
+whoistheauthor:
+t0r0nt0_ch4ll{Robert_Myers}
+
+findmeisez flag:
+t0r0nt0_ch4ll{57R1N65_4re_3z}
+
+corruptdimg flag:
+t0r0nt0_ch4ll{JpG_N0t_C00l}
+
+strings flag:
+t0r0nt0_ch4ll{inv1s1bl3_fl4g_but_not_4_strings}
+
+crackisntgood flag:
+t0r0nt0_ch4ll{Such4CrackerB0y}
+
+anyprotection:
+t0r0nt0_ch4ll{nopr0t3ct}
+
+md4:
+t0r0nt0_ch4ll{torontopass}
+
+md5:
+t0r0nt0_ch4ll{weakpass}
+
+sha1:
+t0r0nt0_ch4ll{lizard}
+
+sha224:
+t0r0nt0_ch4ll{securepass}
+
+sha2:
+t0r0nt0_ch4ll{breakme}
+
+golangisez flag:
+t0r0nt0_ch4ll{g0l4ngM4st3r}
+
+php extract flag:
+t0r0nt0_ch4ll{eZ_3x7r4c7_BYp4SS}
+
+tracking osint flag:
+t0r0nt0_ch4ll{tr4ck1n_br0}
+
+
+HArd vol 1 50 stega:
+t0r0nt0_ch4ll{flagiswowyou4r34pr0mym3n}
+
+
+
+
