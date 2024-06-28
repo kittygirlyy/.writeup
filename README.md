@@ -1,3 +1,3 @@
-# .writeup
+<h2 align="center"> ━━━━━━  △  ━━━━━━ </h2>
 
-Somes write-up
+I wrote somes write-up :3
