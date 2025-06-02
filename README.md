@@ -27,14 +27,6 @@
 
 ---
 
-## 📁 `ReverseMyCat`
-
-| 📄 Challenge         | 🗂️ Category | 🔗 Link |
-|---------------------|-------------|---------|
-| My PE               | Reverse     | [View](https://github.com/kittygirlyy/.writeup/tree/main/ReverseMyCat) |
-
----
-
 ## 📁 `TorontoChall`
 
 | 📄 Challenge         | 🗂️ Category | 🔗 Link |
